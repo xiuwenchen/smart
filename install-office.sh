@@ -2,7 +2,7 @@
 # install_all.sh —— macOS 全量自动安装（含 Falcon 自动配置）
 set -u
 cd /tmp
-CID="E3E08A20CAE84445821F3AC16D1C2B53-B5"   # <—— 换成你的 CID
+CID="ID"   # <—— 换成你的 CID
 
 echo "===== $(date) 开始全量安装 ====="
 
