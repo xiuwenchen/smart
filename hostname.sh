@@ -10,8 +10,8 @@ if [ -z "$TERM" ] || [ "$TERM" = "dumb" ]; then
     exit 0
 fi
 
-WEBHOOK_URL="https://twqnhk7kyg.sg.larksuite.com/base/automation/webhook/event/Ieh5acpYhwFEM9hn58Qlcfmwgof"   # ← 请替换为你的 Webhook 地址
-ADMIN_NAME="SecurityOps"
+WEBHOOK_URL="https://twqnhk7kyg.sg.larksuite.com/base/automation/webhook/event/Kso4ahtc6whe8AhjJnDldoTmg1c"   # ← 请替换为你的 Webhook 地址
+ADMIN_NAME="IT"
 
 clear
 echo "╔══════════════════════════════════════════════════════════════╗"
